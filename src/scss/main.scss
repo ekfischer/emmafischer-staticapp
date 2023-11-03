@@ -20,7 +20,24 @@
 
 // Import partials
 @import 'nav';
+@import "jumbotron";
 
 h3 {
   font-size: 1.5rem;
+}
+
+.card {
+  background-color: darkblue;
+}
+
+.card-text {
+  color: lightblue;
+}
+
+.card-title  {
+  color: lightblue;
+}
+
+.card-captain {
+  color: lightblue;
 }
